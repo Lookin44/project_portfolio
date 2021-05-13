@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block title %} {{author.get_full_name}} - Статья {{post.id}} {% endblock %}
+{% block content %}
+
+<main role="main" class="container">
+    <div class="row">
+        {% include "profile_main.html" with author=author %}
+        <div class="col-md-9">
+            {% include "post_main.html" with post=post %}
+            {% include "comments.html" with post=post %}
+        </div>
+    </div>
+</main>
+{% endblock %}

@@ -1,0 +1,15 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#000" id="svg_1" d="m64,77.075644l0,0c0,-20.752455 23.187917,-37.575642 51.791658,-37.575642l23.541675,0l0,0l113.000007,0l211.874954,0c13.736036,0 26.909439,3.958843 36.622281,11.005649c9.712782,7.046806 15.169407,16.604322 15.169407,26.569993l0,93.939116l0,0l0,56.363452l0,0c0,20.752466 -23.187902,37.575642 -51.791673,37.575642l-211.874954,0l-147.620565,95.546126l34.620558,-95.546126l-23.541675,0c-28.603741,0 -51.791658,-16.823176 -51.791658,-37.575642l0,0l0,-56.363452l0,0l-0.000015,-93.939116z" stroke-width="17" fill="#fff"/>
+  <text stroke="#000" transform="matrix(6.578173292569018,0,0,6.146214356249175,-1051.0222895942554,-572.5829905732469) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_3" y="126.056363" x="172.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">LUKA</text>
+ </g>
+</svg>
